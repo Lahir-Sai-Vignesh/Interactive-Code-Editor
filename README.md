@@ -21,6 +21,7 @@ This project is a React-based interactive code editor that replicates the functi
 - React
 - CodeMirror
 - React-CodeMirror
+- Tailwind Css
 
 ## Project Structure
 
