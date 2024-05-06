@@ -1,5 +1,4 @@
-# Interactive Code Editor - React CodePen Clone
-
+# Interactive Code Editor 
 ## Overview
 
 This project is a React-based interactive code editor that replicates the functionality of CodePen. It allows users to edit HTML, CSS, and JS code in real-time, providing a seamless coding experience. The integration of React CodeMirror and a custom hook ensures syntax highlighting and persistent code visibility even after refreshing the page.
