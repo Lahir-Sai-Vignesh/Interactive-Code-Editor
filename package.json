@@ -1,5 +1,5 @@
 {
-  "name": "Interactive-Code-Editor",
+  "name": "interactive-code-editor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,11 +8,11 @@
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
-    "@mui/icons-material": "^5.15.0",
-    "@mui/material": "^5.15.0",
+    "@mui/icons-material": "^5.14.9",  
+    "@mui/material": "^5.14.9",  
     "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^12.8.3",
+    "@testing-library/react": "^12.1.2",  
+    "@testing-library/user-event": "^12.8.3",  
     "codemirror": "^5.65.16",
     "react": "^17.0.2",
     "react-codemirror2": "^7.3.0",
